@@ -1,0 +1,39 @@
+The Benefits of SharePoint:
+
+
+Document management
+Collaboration
+Internal portals focusing on collaboration and sharing
+With Yammer, internal portals focusing on social collaboration
+Known MS Office interface
+Already available or deployed in most organizations
+Microsoft Exchange, Lync, Office integration (SSO, AD)
+Simple out of the box workflow capability
+Spans outside of WCMS. Search, BI, social, document and record management, collaboration
+Simple non-dynamic web sites
+
+
+
+
+
+The Benefits of Sitecore:
+
+
+Single focus on WCMS and customer intelligence and engagement
+Easy to handle globalization and localization needs
+Simple to reuse content
+Simple to reuse presentation templates and components
+Comprehensive governance system for marketing content across global ecosystem
+Freedom of design and experience for branding
+Full support of interactive user generated experiences and content management
+Software platform future proofing based on separation of content and presentation
+Total multi-channel management
+Strong mobile integration and third party content reuse
+Marketing engagement management
+Full MVC support
+Integration with third party software including ERP, Ecommerce, CRM, Social, search and analytics
+Native targeting and personalization within the user experience
+Full MV and A/B testing capabilities for content and conversion optimization
+Big data capable (SQL, Oracle, Mongo) to build one to one conversation across all channels
+Out of the box engagement analytics for complete customer intelligence data for CMO and marketers
+User interfaces designed for marketing team and web developers
