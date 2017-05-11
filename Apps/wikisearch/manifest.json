@@ -1,0 +1,23 @@
+﻿{
+  "manifest_version": 2,
+
+  "name": "Wiki Search",
+  "description": "This extension shows a Google Image search result for the current page",
+  "version": "1.0",
+
+	"icons": {
+	"16": "images/search.png"
+	},
+	
+	"permissions" : [
+	"tabs",
+	"activeTab",
+	"contextMenus"
+	],
+	"background": {
+	"scripts" : ["logic.js"]
+	},
+
+	"background" : { "page" : "background.html"}
+
+}

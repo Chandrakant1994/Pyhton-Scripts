@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+
+  "name": "Make Notes",
+  "description": "This extension lets user make and save notes on any page",
+  "version": "1.0",
+"manifest_version": 2,
+   "app": {
+    "background": {
+      "scripts": ["logic.js"]
+    }
+  },
+  "icons": { "16": "images/note.png"},
+  "permissions": [
+    "contextMenus",
+    "https://ajax.googleapis.com/"
+  ]
+}
