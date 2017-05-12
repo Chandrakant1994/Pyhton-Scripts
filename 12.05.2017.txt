@@ -1,0 +1,10 @@
+Software release life cycle
+
+Angular 2 stable release - 14 sept 2016
+
+Shadow DOM v1 - 
+
+Method of establishing and maintaining functional boundaries between DOM trees and how these trees interact with each other within a document, thus enabling better functional encapsulation within the DOM & CSS.
+
+element.webkitCreateShadowRoot - deprecated
+element.createShadowRoot - updated
